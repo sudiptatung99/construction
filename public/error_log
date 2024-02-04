@@ -1,0 +1,2 @@
+[04-Oct-2023 13:34:17 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/maatarabuilders/public_html/storage/framework/views/aeebdc03d66dcd6c4b4453e9715c5ce8.php on line 208
+[04-Oct-2023 13:35:36 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/maatarabuilders/public_html/storage/framework/views/aeebdc03d66dcd6c4b4453e9715c5ce8.php on line 208
